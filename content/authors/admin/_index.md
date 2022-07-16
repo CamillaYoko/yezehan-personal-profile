@@ -1,6 +1,6 @@
 ---
 title: Zehan Ye
-role: Psychological Students
+role: Psychological Students; nihao!
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
