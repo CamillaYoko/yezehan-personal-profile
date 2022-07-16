@@ -26,7 +26,7 @@ experience:
 widget_id: "10"
 headless: true
 weight: 40
-title: Experience
+title: Research Experience
 subtitle: null
 design:
   columns: "2"
