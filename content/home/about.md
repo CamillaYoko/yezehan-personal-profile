@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: "1"
+widget_id: Recent
 headless: true
 weight: 20
 title: Profile
