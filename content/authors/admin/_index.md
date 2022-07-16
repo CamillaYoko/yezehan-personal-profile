@@ -21,10 +21,10 @@ education:
   courses:
     - course: Master of Science in Fundamental Psychology
       institution: School of Psychology and Cognitive Science, East China Normal University
-      year: 2020
+      year: ""
     - course: Bachelor of Science in Applied Psychology
       institution: Department of Psychology, Shanghai Normal University
-      year: ""
+      year: 3
 email: yezehan_1008@163.com
 superuser: true
 highlight_name: true
