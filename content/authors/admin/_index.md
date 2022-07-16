@@ -1,7 +1,7 @@
 ---
 title: Zehan Ye
 role: Psychological Students
-avatar_filename: img_3168.png
+avatar_filename: avatar..jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
